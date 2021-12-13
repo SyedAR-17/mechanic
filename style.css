@@ -1,0 +1,98 @@
+html{
+    min-height: 100%;
+}
+.nav-item
+{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    margin-left: 5px;
+    font-weight: bold;
+}
+body
+{
+    background-image: url("bg.jpg");
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#Code-Block
+{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    font-size: 2em;
+    margin-top: 190px;
+}
+#title
+{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    font-size: 2em;
+    margin-top: 0px;
+}
+#contact
+{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    font-size: 2em;
+    margin-top: 190px;
+}
+.container
+{
+    top: 40px;
+}
+.contact-list
+{
+    font-family:'Courier New', Courier, monospace;
+    position: absolute;
+    font-weight: bold;
+    top: 39%;
+    left: 41%;
+    color: white;   
+    font-size: 1.5em;
+}
+#FACEBOOKlink{
+    color: white;
+}
+#Image{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    margin-bottom: 10px;
+    
+}
+#Skill-name{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+.main{
+    text-align: center;
+}
+.skill{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: 2em;
+    text-align: center;
+    color: white;
+}
+#about{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    color: white;   
+    font-size: 1.5em;
+    margin-top: 190px;
+}
+body{
+    background-image: url('waa.jpg')
+    ;
+}
